@@ -56,7 +56,7 @@
 <a href="https://www.instagram.com/vini_garcia_10/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Vinícius Garcia-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/@viniciusgarcia371" target="_blank">
+<!-- <a href="https://www.youtube.com/@viniciusgarcia371" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Vinícius Garcia-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a> -->
 </p>
