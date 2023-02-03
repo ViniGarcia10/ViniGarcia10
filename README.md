@@ -8,7 +8,7 @@
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, React**
 
 - ⚡ Seeking to develop the best solutions!
 
